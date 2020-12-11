@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoboCon</string>
+    <string name="start_player">Start Stream</string>
+    <string name="Connect">Connect to Camera</string>
+    <string name="not_connected">No Camera Connected</string>
+    <string name="getting_profiles">Getting Profiles…</string>
+    <string name="getting_stream_uri">Getting Streaming URI…</string>
+    <string name="Play">Play Stream</string>
+    <string name="ip_address">IP Address</string>
+    <string name="password">Password</string>
+    <string name="login">Username</string>
+
+</resources>
